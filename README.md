@@ -1,14 +1,14 @@
 <h1 align="center">亥角 貴治 / Takaharu Isumi</h1>
 
 <p align="center">
-  <strong>Freelance Engineer × AI Builder</strong><br>
-  Vue / Nuxt + Supabase + AI 支援開発 で SaaS / 業務システムを高速に作るエンジニア
+  <strong>Full-stack Engineer / Forward Deployed Engineer</strong><br>
+  営業7年 × エンジニア6年目。要件定義から実装・運用・現場定着までを一気通貫で。
 </p>
 
 <p align="center">
   <a href="https://github.com/Isumi526"><img src="https://img.shields.io/badge/GitHub-Isumi526-181717?style=flat-square&logo=github"></a>
   <img src="https://img.shields.io/badge/Location-Osaka,%20JP-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20(2026.07〜)-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20(2026.10〜)-success?style=flat-square">
   <img src="https://img.shields.io/badge/Remote-OK-green?style=flat-square">
 </p>
 
@@ -16,151 +16,181 @@
 
 ## 👋 About Me
 
-大阪府を拠点に活動するフリーランスエンジニアです。
+大阪を拠点に活動するエンジニアです。エンジニアとしては6年目になります。
 
-**営業職4年(不動産投資会社・法人/個人向け)からエンジニアへ転身**し、現在で約4年。
-Vue / Nuxt 系のフロントエンドと Supabase を組み合わせた **SaaS / 業務システム開発** を主軸に、
-LIFF / LINE Messaging API、AI 連携プロダクトなど幅広い領域で実装経験を積んできました。
+その前は **アパレル販売と投資用不動産の営業を合わせて約7年**、店舗での接客から
+経営者への提案までを担当していました。**2020年に独学でエンジニアへ転向**し、
+以降は受託開発会社との業務委託を経て、現在は直請けと自社プロダクトで活動しています。
 
-直近は **建設業向け SaaS「sido」** を主担当として、要件定義から運用までを一人で担当。
-**Claude Code / VS Code などの AI 支援開発をフル活用し、約1ヶ月で ver1 を完成・運用開始** しました。
-現在は ver2 を継続開発中です(本番稼働中)。
+主軸は **TypeScript**。Vue 3 / Nuxt 3 と Next.js の両系統で、フロントエンドから
+Supabase / PostgreSQL を用いたバックエンド・データ設計までを担当します。
+LINE / LIFF、Stripe、各種 LLM API との連携を含む **SaaS・業務システムの新規構築**が中心です。
 
-過去には、研修会社経由で **大手 SIer・SaaS 事業会社の新卒エンジニア研修の講師** も担当していました。
+直近は建設・内装業向け SaaS を直請けで担当し、**業務プロセスの構造化から要件定義・設計・
+実装・現場定着まで**を一人で担当しています。AI 駆動開発の型を整備したことで、
+ver1 は約1ヶ月で運用開始まで到達しました。
 
-業務委託としての主軸はフリーランスエンジニア活動ですが、その経験を活かして
-**「全力AIラボ」** という屋号で、中小企業向けの AI 開発・業務自動化サービスも展開中です。
+過去には、研修会社経由で **上場企業を含む複数社の新卒エンジニア研修講師**を約3年担当しています。
+
+---
+
+## 🎯 What I'm good at
+
+- **課題定義から入れること** — 顧客が最初に口にする要望は、たいてい本当の課題ではない。
+  営業7年で学んだヒアリングの型を、そのまま要件定義に使っています
+- **一人で立ち上げ切ること** — 要件定義・設計・実装・運用・現場への定着まで、
+  分業前提でない状態から動かせます
+- **AI を道具ではなく基盤にすること** — 下記 cc-pipeline のとおり、
+  レビューと承認の設計まで含めて開発プロセスに組み込んでいます
+- **非エンジニアに伝えること** — 研修講師3年と営業7年。技術を知らない相手への説明が得意です
 
 ---
 
 ## 💼 Open to Work
 
-**2026年7月〜 新規業務委託案件を募集中です。**
+**2026年10月〜、新しいポジションを探しています。**
 
 | 項目 | 内容 |
 |---|---|
-| 稼働開始 | 2026年7月〜 |
-| 稼働形態 | フルリモート希望(スポットのオンサイト相談可) |
-| 稼働日数 | 週5(40h)を基本に、週4(32h)も応相談 |
-| ポジション | フロントエンドエンジニア / フルスタックエンジニア(BaaS含む) |
-| 興味のある領域 | Vue / Nuxt 系 SaaS 開発、業務システム、LIFF / LINE 連携、AI 活用プロダクト |
+| 稼働開始 | 2026年10月〜 |
+| 形態 | 正社員 / 業務委託 いずれも検討します |
+| 勤務地 | フルリモート ＞ リモート中心 ＞ 大阪 ＞ 東京（内容次第で東京も可） |
+| ポジション | Forward Deployed Engineer / フルスタックエンジニア / テックリード候補 |
+| 関心のある領域 | AI・LLM を組み込んだプロダクト開発、業務ドメインの深いSaaS、上流から入れる開発 |
+
+**探している環境**
+
+- 要件定義・上流工程から関与できること
+- **チームで開発する環境であること** — これまでほぼ全ての案件をエンジニア1名体制で
+  担当してきたため、ここは実務でしか埋まらないと考えています
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript%20(4y)-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20(5y)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Frontend
+### Core
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt 3](https://img.shields.io/badge/Nuxt%203-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Vue 2](https://img.shields.io/badge/Vue%202-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt 2](https://img.shields.io/badge/Nuxt%202-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-
-### Backend / BaaS
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### Integrations
-![LINE](https://img.shields.io/badge/LINE%20Messaging%20API-00C300?style=flat-square&logo=line&logoColor=white)
-![LIFF](https://img.shields.io/badge/LIFF-00C300?style=flat-square&logo=line&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
-### AI / ML
+### AI / LLM
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-4285F4?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20/%20pgvector-4169E1?style=flat-square)
 
-### AI-Assisted Development
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- LLM の Function Calling による**自然言語からの構造化抽出**（本番稼働）
+- vision-LLM を用いた**帳票・見積書の OCR 処理**
+- **ハイブリッド検索（pgvector + 全文検索 / RRF）**による RAG 基盤を設計・実装中
+- 音声のリアルタイム文字起こしと、議事録からのタスク自動抽出
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Also work with
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20/%20FastAPI-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter%20/%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js%20/%20Deno-339933?style=flat-square&logo=node.js&logoColor=white)
+![LINE](https://img.shields.io/badge/LINE%20Messaging%20API%20/%20LIFF-00C300?style=flat-square&logo=line&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🏗 [sido](https://github.com/Isumi526/sido) - 建設業向け SaaS 型業務システム
-**継続中 / 本番運用中**
+### 🏗 [sido](https://github.com/Isumi526/sido) — 建設・内装業向け SaaS
+**本番稼働中 / 継続開発中**
 
-施工管理・日報管理を中心とした SaaS。マルチテナント基盤で複数アカウント運用に対応。
+施工管理・日報・請求まわりを扱うマルチテナント型の業務システム。
 
-- **Highlights**:
-  - AI 支援開発(Claude Code)をフル活用し、**約1ヶ月で ver1 を完成・運用開始**
-  - クライアントと直接やり取りしながら、**要件定義から運用までを一人で担当**
-  - 現場作業員向け **LIFF アプリ** + 管理画面 + GAS による自動化処理を連携
-  - Supabase RLS によるテナント分離、Auth による認証実装
-- **Stack**: Vue 3 / Nuxt 3 / TypeScript / Supabase / LIFF / GAS / Vercel
+- クライアント代表と**週次でヒアリングを重ねながら、業務プロセスの構造化から要件定義・
+  設計・実装・現場定着まで一人で担当**
+- AI 駆動開発の型を整備し、**ver1 は約1ヶ月で運用開始**まで到達
+- 導入の結果、**事務担当者が毎日約2時間かけていた転記作業を廃止**
+- 現場作業員向け **LIFF アプリ** + 管理画面 + 自動化処理を連携
+- Supabase RLS によるテナント分離、vision-LLM を用いた見積書の読み取り
+- **Stack**: Nuxt 3 / TypeScript / Supabase / LIFF / Vercel
 
-> 💡 業務委託案件のコードは Private 管理のため GitHub には公開されていません。
-> sido は機密情報を除去した上で Public 公開しているポートフォリオです。
+### ⚙️ cc-pipeline — AI 駆動開発の実行基盤（非公開）
 
-### 🤖 全力AIラボ (Zenryoku AI Lab)
+複数プロジェクトで共通利用している、Claude Code を軸にした開発パイプライン。
 
-中小企業向けの AI 開発・業務自動化サービス。月額リテイナー型で、AI を活用した
-業務効率化ソリューションを提供しています。**「業務を、人に頼り続けない会社をつくる。」** をミッションに、
-AI 支援エンジニアリングでシステム開発の障壁を下げ、現場の業務をプロダクトに落とし込んでいます。
+- スラッシュコマンド（`/run` `/ship` `/review`）を全プロジェクトで共通化
+- **変更内容のリスクに応じた2レーン制** — 低リスクは自動マージ、高リスクは人間のレビュー必須
+- 独立した AI レビュー（Gemini）による二重ゲート + チャット経由の承認フロー
+- **判断基準は「可逆性」** — 読み取りは自動、可逆な書き込みは条件付き自動、
+  不可逆な操作（削除・送信・決済）は承認必須
+- 実行を禁止する操作を明示的に定義し、判断基準を条件分岐表として文書化
 
-*(LP 準備中)*
+> AI エージェントのツール実行をどこまで自動化してよいかは、MCP のツール設計と
+> 本質的に同じ問題だと考えています。「全部自動」か「全部承認」の二択ではなく、
+> 操作の性質ごとに分岐を設計すべきという立場です。
+
+### 🤖 osarAI — 営業支援 CRM（自社プロダクト / ベータ）
+
+商談メモから顧客情報を構造化し、次のアクションを提示する CRM。
+現在、診断機能を **FastAPI + RAG** ベースへ移行中です。
+
+- ハイブリッド検索（pgvector のベクトル検索 + PostgreSQL の全文検索を RRF で統合）
+- 生成側に**出典グラウンディングの制約**をかけ、出典のない主張を機械的に除外
+- **評価設計を先に定義** — Recall@5 / 出典遵守率 / 禁止表現の混入率 / p95レイテンシ /
+  1件あたりコスト の5指標で Go・No-Go を判断
+- **Stack**: Next.js / TypeScript / Supabase / Python・FastAPI / pgvector / AWS
 
 ---
 
-## 🎓 Teaching & Mentoring (Past Experience)
+## 📋 Experience
 
-過去に、研修会社経由で **大手 SIer・SaaS 事業会社など複数社(4社以上)の新卒エンジニア研修の講師** を担当していました。
+10業種・30件以上のプロジェクトに参画してきました。
+（受託・業務委託案件のコードは非公開のため、GitHub 上には公開していません）
 
-- **対象**: 新卒入社のプログラミング未経験者
-- **指導範囲**: Vue.js / JavaScript / TypeScript / SQL / HTML5・CSS3 / IT ビジネスリテラシー
-- **期間**: 数日のスポット研修 〜 2ヶ月の中期研修まで対応
-
-教えることを通じて、自身の理解の言語化・他者への説明力を磨いてきました。
+| 領域 | 内容 |
+|---|---|
+| 公共・自治体 | 相談プラットフォームの新規構築。**貢献者14名中コミット数1位**。現在も稼働中 |
+| ヘルスケア | 従業員1,400名規模の企業の新規事業に約2年参画。**4名体制の技術リード** |
+| EC | オンラインギフト EC の立ち上げに**初回コミッター**として参画。決済・在庫・配送を含む |
+| 保険 | 営業担当者向け CRM。Flutter + Nuxt 3 + Cloud Functions の3層構成 |
+| 建設・内装 | 施工管理 SaaS（sido）。要件定義から現場定着まで |
+| 冠婚葬祭 | 業務システムの長期保守・機能追加（2年10ヶ月） |
+| 研修 | 上場企業を含む複数社の**新卒エンジニア研修講師**を約3年（1回あたり30〜50名） |
 
 ---
 
 ## 💡 Working Style
 
-- **AI 支援開発**: Claude Code / VS Code をフル活用。AI を相棒に、品質を保ったまま開発速度を向上
-- **モダンスタック**: Vue 3 / Nuxt 3 / TypeScript / Supabase / Vercel を主軸に、案件に応じて柔軟に対応
-- **PM 配下 ⇄ クライアント直、両方対応可**: 画面設計書とタスク管理に基づくチーム開発も、要件定義から運用まで一気通貫の対応も歓迎
-- **コミュニケーション**: 前職営業経験(4年)で培ったビジネス側の文脈理解を活かして、認識合わせを丁寧に進める
-- **拠点**: 関西(大阪府 阿波座)/ フルリモート対応可
+- **上流から入る** — 「何を作るか」を決めるところから関われる仕事を好みます
+- **AI を前提にした開発** — レビュー・承認・監査ログまで含めて設計に組み込みます
+- **PM 配下 ⇄ クライアント直、両方** — 仕様書ベースの開発も、要件定義からの一気通貫も
+- **伝えることを重視** — 営業7年と研修講師3年。非エンジニアとの認識合わせが得意です
 
 ---
 
-## 📊 Career Path
+## 📊 Career
 
 ```
-2016 ─── 2020   不動産投資会社 / 法人・個人向け営業(約4年)
-2021 ─── 現在   フリーランスエンジニア(約4年)
-                └─ Web 受託・業務システム開発を中心に活動
-                └─ Vue 2/3 + Nuxt 2/3 + Supabase で複数業種の案件を継続担当
-                └─ AI 支援開発を実務に取り入れた高速開発を実践中
+2013 ─── 2016   アパレル販売（約3年5ヶ月）
+2016 ─── 2020   投資用不動産の営業 / 営業主任（約4年）
+2020 ─── 2021   独学でエンジニアへ転向
+2021 ─── 2026   受託開発会社と業務委託契約。30件以上のプロジェクトに参画
+2026 ─── 現在   直請け + 自社プロダクト開発
 ```
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: **ismsn526@gmail.com**
-- 💼 業務委託・コラボのご相談は GitHub の DM または上記メールへ
-- 🌐 全力AIラボ: *(LP 準備中)*
+- 📧 **ismsn526@gmail.com**
+- 💼 ご相談は上記メール、または GitHub 経由でお気軽にどうぞ
 
 <p align="center">
-  <sub>Built with curiosity, powered by AI 🤖</sub>
+  <sub>決めて、つくる。</sub>
 </p>
